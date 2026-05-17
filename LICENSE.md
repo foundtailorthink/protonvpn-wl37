@@ -1,10 +1,10 @@
-Smart ProtonVPN Plugin | torrenting support + PPTP support is the best ProtonVPN plugin with torrenting support and PPTP support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/protonvpn-wl37/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
